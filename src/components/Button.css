@@ -1,0 +1,12 @@
+.button{
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: rgb(51, 32, 158);
+    padding: 8px 0px;
+    font-size: 1.0em;
+}
+
+.button:active{
+    background-color: rgba(0, 0, 255, 0.185);
+}
